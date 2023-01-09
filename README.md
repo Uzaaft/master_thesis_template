@@ -13,4 +13,4 @@ Happy hacking!
 
 
 ## Demo: How to set things up in overleaf
-![](./images/overleaf.gif)
+![](./images/overleaf.mp4)
