@@ -13,4 +13,4 @@ Happy hacking!
 
 
 ## Demo: How to set things up in overleaf
-![](./images/overleaf.mp4)
+See mp4 video in images folder
